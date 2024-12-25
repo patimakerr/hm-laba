@@ -26,4 +26,12 @@ cp /usr/share/icons/hicolor/16x16/actions/document-new.png /mnt/recovery/test.pn
 ### Ввостановление файлов
 Для восстановления всех файлов из удаленного каталога вы должны запустить extundelete в режиме восстановления с ключом –restore-all.
 Далее вам необходимо проверить восстановленные файлы и их типы, а также используйте команду file <имя_файла> для проверки типа восстановленных файлов.
+## Источники
+https://www.gnu.org/software/coreutils/manual/coreutils.html 
+
+https://losst.pro/vosstanovlenie-udalennyh-fajlov-linux
+
+https://wiki.merionet.ru/articles/tipy-fajlovyh-sistem-linux
+
+![e99d9192c1d6d4f185bc60f3a6df0ec9](https://github.com/user-attachments/assets/4d1d04b5-c776-44d5-a379-63eed8fdb860)
 
